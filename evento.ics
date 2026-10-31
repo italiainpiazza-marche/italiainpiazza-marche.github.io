@@ -25,8 +25,9 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:manifestazione-20261107-ancona@italiainpiazza
-DTSTAMP:20261028T160000Z
-DTSTART;TZID=Europe/Rome:20261107T150000
+SEQUENCE:1
+DTSTAMP:20261031T142400Z
+DTSTART;TZID=Europe/Rome:20261107T160000
 SUMMARY:Manifestazione – Italia in Piazza - Marche
 LOCATION:Piazza Cavour\, Ancona\, Italia
 DESCRIPTION:Manifestazione contro il carovita.
